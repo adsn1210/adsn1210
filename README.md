@@ -1,4 +1,13 @@
-## Hi there 👋
+## Adrian Salazar Nicolas
+
+# Desarollador web Junior Full-Stack 💻
+
+# Skills 
+🔴 JS
+🔴 HTML y CSS
+🔴 Java
+
+
 
 <!--
 **adsn1210/adsn1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
